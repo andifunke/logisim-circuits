@@ -1,6 +1,9 @@
 # Logisim Circuit Snippets
 
-A collection of funny, nerdy circuits for [Logisim](http://www.cburch.com/logisim/). These digital circuits have been written during my course in *Structured computer organization* (1st Semester, 2014) based on the reference work from Andrew S. Tanenbaum.
+A collection of funny, nerdy circuits for [Logisim](http://www.cburch.com/logisim/).
+These digital circuits have been written during my course in
+*Structured computer organization* (1st Semester, 2014) based on the reference
+work from Andrew S. Tanenbaum.
 
 ### Hamming Distance
 
@@ -10,7 +13,8 @@ Calculates the hamming distance of two 4-bit input codes.
 
 ### Animal Training
 
-Homework Assignment: An "*animal*" needs to sit on every chair from A to C and hit the nearby button each time to get its final reward.
+Homework Assignment: An "*animal*" needs to sit on every chair from A to C and
+hit the nearby button each time to get its final reward.
 
 ![animal_training.gif](./img/animal_training.gif)
 
@@ -28,6 +32,8 @@ Based on the famous Tanenbaum 1-Bit ALU design for the Mic-1 CPU.
 
 ### 4-Bit ALU
 
-Chained 1-bit ALUs to calculate basic operations (add, sub, not, neg, inc, and, or, true, false) on two half-byte inputs.
+Chained 1-bit ALUs to calculate basic operations
+(add, sub, not, neg, inc, and, or, true, false)
+on two half-byte inputs.
 
 ![4-bit_ALU.gif](./img/4-bit_ALU.gif)
